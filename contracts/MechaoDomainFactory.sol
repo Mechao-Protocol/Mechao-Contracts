@@ -7,7 +7,7 @@
 // import "@openzeppelin/contracts/utils/Context.sol";
 
 // /// @title Mechao Domain Factory
-// /// @author Oluwaseun-S
+// /// @author Ademola
 // /// @notice Factory contract dynamically new domain contracts.
 // contract MechaoDomainFactory is Context {
 
